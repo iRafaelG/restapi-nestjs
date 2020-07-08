@@ -2,7 +2,7 @@
 
 This project was generated with NestJS. Please, before running make sure you have ran your MongoDB services.
 
-A simple  Rest API to CRUD Products.
+A simple Rest API to CRUD Products.
 
 ## Installation
 
