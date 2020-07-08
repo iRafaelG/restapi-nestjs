@@ -1,0 +1,8 @@
+// product dto
+export class ProductDTO {
+    readonly name: string;
+    readonly description: string;
+    readonly imageUrl: string;
+    readonly price: number;
+    readonly createdAt: Date;
+}
